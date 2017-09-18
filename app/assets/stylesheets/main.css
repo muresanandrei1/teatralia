@@ -1,0 +1,19 @@
+.paul {
+  background-image: url(../img/team/paul.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 0;
+}
+
+.george {
+  background-image: url(../img/team/george.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: -50px;
+}
+
+.nodots {
+  list-style: none;
+}
